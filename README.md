@@ -86,5 +86,7 @@ This app runs locally and is not deployed.
 Deployment can be added later using Vercel (frontend) and Render/Railway (backend).
 
 Author
+
 Abhishek Kumar
+
 Email: abhishekmdp11@gmail.com
